@@ -1,0 +1,2 @@
+/Images/citi-bike-station-bikes.jpg filter=lfs diff=lfs merge=lfs -text
+/resources/2022_citibike_tripdata.csv filter=lfs diff=lfs merge=lfs -text
